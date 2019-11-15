@@ -1,4 +1,4 @@
-var myName = 'dax jones';
-function sayMyName () {
-  Logger.log(myName);
+var friendsName = 'Brian Taylor';
+function sayTheName () {
+  Logger.log(friendsName);
 }
